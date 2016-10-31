@@ -1,3 +1,3 @@
-app.controller('SettingsController', function(){
-
+app.controller('SettingsController', function () {
+	
 });
